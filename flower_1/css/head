@@ -1,1 +1,219 @@
 
+body{
+    margin: 0px;
+}
+
+.main
+{
+    width: 1000px;
+    margin: auto;
+    border: 10px solid #F1D8EE;
+    
+}
+.menu_one {
+    display: flex;
+   
+    margin: 0px;
+    background-color: #C62F73;
+}
+
+.flag {
+    display: inline;
+    width: 800px;
+    padding: 3px 0px 0px 20px;
+}
+
+.flag img{
+    margin: 5px;
+    border: 1px solid white;
+}
+
+.cart {
+    height: 35px;
+    color:white;
+}
+
+.cart a{
+    color: #E78BBB;
+}
+
+.flowershop_one {
+    width: 1000px;
+    height: 115px;
+    background-color: #EBBCE5;
+
+}
+
+.flowershop_two {
+    height: 289px;
+    width: 1000px;
+}
+
+.image_one {
+    margin: 20px 376px 20px 20px;
+   display: inline;
+}
+
+.image_three {
+    width: 656px;
+    height: 215px;
+   margin-bottom: 40px;
+    margin-left: 30px;
+    margin-right: 10px;
+
+}
+
+.image_two {
+    width: 300px;
+    
+}
+
+
+
+.menu_two ul{
+    text-decoration: none;
+    background-color: #450D26;
+    padding: 15px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    /* display: inline; */
+}
+
+.menu_two ul li:hover{
+    color: white;
+    cursor: pointer;
+}
+
+.menu_two ul li:active{
+    color: white;
+    cursor: pointer;
+}
+
+.menu_two ul li:active{
+    color: white;
+}
+
+.menu_two ul li{
+    display: inline;
+    margin: 16px;
+    padding-left: 20px;
+color: #EABAE4;
+border-left: 1px solid #EABAE4 ;
+}
+
+.mid{
+    background-color: #7F1745;
+    color: white;
+    display: flex;
+    
+}
+
+.mid_one{
+    width: 630px;
+    margin: 40px;
+    /* padding-top: 20px; */
+}
+
+.mid_one .h2{
+    background-color: #450D26;
+    padding: 5px;
+    padding-left:15px ;
+    margin: 40px 4px 0px 4px;
+    width: 615px;
+} 
+
+.product{
+    width: 220px;
+    display: flex;
+}
+
+.product_one{
+    margin: 5px;
+}
+
+.product_one p{
+    margin: 5px;
+}
+
+.product_one h4{
+    background-color: #BC467B;
+    padding:5px ;
+    padding-left: 10px;
+}
+
+.product_one input{
+    padding: 3px 15px;
+    border-radius: 0px;
+    background-color: #BC467B;
+    border: none;
+    color: white;
+    margin-right: 10px;
+}
+
+.product_one a{
+    color: #EABAE4;
+}
+
+.search{
+    background-color: #EABAE4;
+    margin: 30px 30px;
+    padding: 1px;
+    width: 250px;
+    height: 150px;
+}
+
+.mid_two h3{
+    background-color: #BC467B;
+    margin: 5px;
+    padding: 5px;
+    padding-left: 15px;
+}
+
+.categories{
+    background-color: #EABAE4;
+    margin: 30px 30px;
+    padding: 1px;
+    width: 250px;
+}
+
+.categories li{
+    list-style-image: url(/demo3/images/templatemo_list_icon.gif);
+    color: #C04B81;
+}
+
+.categories li:hover{
+    list-style-image: url(/demo3/images/templatemo_list_icon_hover.gif);
+    color: #450623;
+    cursor: pointer;
+}
+
+.validation{
+    background-color: #EABAE4;
+    margin: 30px 30px;
+    padding: 1px;
+    width: 250px;
+}
+
+.search input{
+    margin:10px 25px;
+    padding: 3px 25px;
+}
+
+.footer{
+    background-color: #363636;
+    display: flex;
+}
+
+.logo{
+    margin: 13px 0px 0px 20px;
+}
+
+.copyright p{
+    color: white;
+    width: 300px;
+    margin-left: 135px;
+}
+
+.copyright p a{
+    color: #EABAE4;
+}
