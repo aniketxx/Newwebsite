@@ -1,1 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flower Shope </title>
+    <link rel="stylesheet" href="/demo3/css/head.css">
+</head>
+
+<body>
+    <div class="main">
+        <div class="menu_one">
+            <div class="flag">
+                <img src="/demo3/images/templatemo_flag_01.gif" alt="" srcset="">
+                <img src="/demo3/images/templatemo_flag_02.gif" alt="" srcset="">
+                <img src="/demo3/images/templatemo_flag_03.gif" alt="" srcset="">
+                <img src="/demo3/images/templatemo_flag_04.gif" alt="" srcset="">
+                <img src="/demo3/images/templatemo_flag_05.gif" alt="" srcset="">
+            </div>
+            <div class="cart">
+                <p><b>Shopping Cart (<a href="#">3 Items</a>)</b></p>
+
+            </div>
+        </div>
+
+        <div class="flower_shop">
+            <div class="flowershop_one">
+
+                <img src="/demo3/images/templatemo_site_header.jpg" alt="templatemo_site_header.jpg" srcset=""
+                    class="image_one">
+                <img src="/demo3/images/templatemo_header_bg.jpg" alt="templatemo_header_bg.jpg" srcset=""
+                    class="image_two">
+
+            </div>
+            <div class="flowershop_two">
+                <img src="/demo3/images/templatemo_banner_image.jpg" alt="templatemo_banner_image.jpg" srcset=""
+                    class="image_three">
+                <img src="/demo3/images/templatemo_banner_bg.jpg" alt="templatemo_banner_bg.jpg" srcset=""
+                    class="image_two">
+            </div>
+        </div>
+
+        <div class="menu_two">
+            <ul>
+                <li active>Home</li>
+                <li>Features</li>
+                <li>Gallery</li>
+                <li>Templates</li>
+                <li>About Us</li>
+                <li>Contact Us</li>
+            </ul>
+        </div>
+
+        <div class="mid">
+            <div class="mid_one">
+                <div class="wel">
+                    <h2>WelCome To Our Flower Site</h2>
+                    <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat harum accusantium quaerat unde
+                        architecto blanditiis sint amet eius, enim id velit aut saepe error eligendi.</div><br>
+                    <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, fugiat quod sunt quos
+                        similique animi magni officiis! Tempore velit sequi alias. Eius est quisquam odit quae unde
+                        provident officiis? Nesciunt quas necessitatibus enim laborum quos!</div>
+                </div>
+
+                <h2 class="h2">New Products</h2>
+                <div class="product">
+
+                    <div class="product_one">
+                        <h4>Product One</h4>
+                        <img src="/demo3/images/templatemo_image_01.jpg" alt="templatemo_image_01.jpg" srcset="">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, nisi.</p>
+                        <p class="price">PRICE:$14.00</p>
+                        <input type="button" value="Buy Now">
+                        <a href="#">Details</a>
+                    </div>
+
+                    <div class="product_one">
+                        <h4>Product One</h4>
+                        <img src="/demo3/images/templatemo_image_02.jpg" alt="templatemo_image_01.jpg" srcset="">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, nisi.</p>
+                        <p class="price">PRICE:$14.00</p>
+                        <input type="button" value="Buy Now">
+                        <a href="#">Details</a>
+                    </div>
+
+                    <div class="product_one">
+                        <h4>Product One</h4>
+                        <img src="/demo3/images/templatemo_image_03.jpg" alt="templatemo_image_01.jpg" srcset="">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, nisi.</p>
+                        <p class="price">PRICE:$14.00</p>
+                        <input type="button" value="Buy Now">
+                        <a href="#">Details</a>
+                    </div>
+                </div>
+
+            </div>
+            <div class="mid_two">
+                <div class="search">
+                    <h3>SEARCH</h3>
+                    <input type="search" name="search" id=""><br>
+                    <input type="button" value="SEARCH">
+                </div>
+                <div class="categories">
+                    <h3>Categories</h3>
+                    <ul>
+                        <li>Artificial and Silk</li>
+                        <li>Dried and Preserved</li>
+                        <li>Floral</li>
+                        <li>Fresh Cut</li>
+                        <li>Garden</li>
+                        <li>Gifts</li>
+                        <li>Nurseries</li>
+                        <li>Services</li>
+                        <li>Weddings</li>
+                        <li>Wholesale</li>
+                    </ul>
+                </div>
+                <div class="validation">
+                    <h3>W3C Validations</h3>
+                    <img src="/demo3/images/" alt="" srcset="">
+                    <img src="/demo3/images/" alt="" srcset="">
+                </div>
+            </div>
+            
+        </div>
+
+        <div class="footer">
+
+            <div class="logo">
+                <img src="/demo3/images/mastercard.gif" alt="" srcset="">
+                <img src="/demo3/images/visa.gif" alt="" srcset="">
+                <img src="/demo3/images/paypal.gif" alt="" srcset="">
+                <img src="/demo3/images/verisignsecured.gif" alt="" srcset="">
+            </div>
+
+            <div class="copyright">
+                <p>Copyright &copy; 2024 <a href="#">Your Company Name Website Template</a> by <a href="#">Free css Templates</a></p>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
